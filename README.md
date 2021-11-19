@@ -18,3 +18,6 @@ Main source is here [main source](https://github.com/sandy1709/catuserbot) fork 
 
 ## Heroku Deploy
   - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Theepori92/nekopacke)
+
+
+[Heroku](https://github.com/jamelsingh/FriendlyUserBot#Deploy-to-Heroku)
